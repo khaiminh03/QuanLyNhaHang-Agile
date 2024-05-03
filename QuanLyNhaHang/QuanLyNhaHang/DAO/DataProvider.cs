@@ -10,6 +10,18 @@ namespace QuanLyNhaHang.DAO
 {
     public class DataProvider
     {
+        private static DataProvider instance; // Ctrl + R +E
+        public static DataProvider Instance
+        {
+            get
+            {
+                if (instance == null) instance = new DataProvider();
+                return DataProvider.instance;
+            }
+            private set { DataProvider.instance = value; }
+        }
+        private DataProvider() { }
+
         private string chuoiketnoi = "Data Source = YOUNGTEE; Initial Catalog = QuanLyNhaHang; Integrated Security = True";
         public DataTable ExecuteSQL(string sql, object[] parameter = null) // có thể bằng null
         {
