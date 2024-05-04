@@ -1,0 +1,429 @@
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Quan li nha hang\Project\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Winform\Code\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Winform\Code\QuanLyNhaHang_12\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\15\QuanLyNhaHang_14\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_16\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\ASUSS\Downloads\QuanLyNhaHang_17\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Winform\Code\QuanLyNhaHang_18\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Quan li nha hang\QuanLyNhaHang_20\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\Documents\Zalo Received Files\QuanLyNhaHang_21\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang_21 (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\fancy\Downloads\duphong\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\duphong\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EnvDTE.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\pvinh\fancy\Downloads\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EnvDTE.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\Winform\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.hoadon.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\stdole.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.AccountProfile.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fAdmin.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.hoadon.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNh.C9D63E52.Up2Date
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\LENOVO\Desktop\QuanLyNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fTableManager.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Login.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\stdole.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Desktop\QuanLyNhaHang - Copy (2)\QuanLyNhaHang\obj\Debug\QuanLyNh.C9D63E52.Up2Date
