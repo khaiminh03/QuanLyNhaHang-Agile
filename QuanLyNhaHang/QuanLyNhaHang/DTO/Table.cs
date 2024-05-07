@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhaHang.DTO
 {
-    internal class Table
+    public class Table
     {
         public Table(int id, string name, string status)
         {

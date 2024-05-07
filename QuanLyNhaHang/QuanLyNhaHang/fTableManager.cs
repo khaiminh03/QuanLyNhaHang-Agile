@@ -37,7 +37,21 @@ namespace QuanLyNhaHang
            
         }
         #region Method
-
+        void ShowBill(int id)
+        {
+            listBill.Items.Clear();
+            List<QuanLyNhaHang.DTO.Menu> listBillInfo = MenuDAO.Instance.GetListMenuByTable(id);
+            float totalPrice = 0;
+            foreach (QuanLyNhaHang.DTO.Menu item in listBillInfo)
+            {
+                ListViewItem lsvitem = new ListViewItem(item.FoodName.ToString());
+                lsvitem.SubItems.Add(item.Count.ToString());
+                lsvitem.SubItems.Add(item.Price.ToString());
+                lsvitem.SubItems.Add(item.TotalPrice.ToString());
+                totalPrice += item.TotalPrice;
+                listBill.Items.Add(lsvitem);
+            }
+        }
         void ChangeAccount(int type)
         {
            
@@ -74,10 +88,6 @@ namespace QuanLyNhaHang
                 flowLayoutPanel1.Controls.Add(btn);
             }
         }
-        void ShowBill(int id)
-        {
-            
-        }
         void LoadComboboxTable(ComboBox cb)
         {
            
@@ -88,7 +98,13 @@ namespace QuanLyNhaHang
         int idhientai = 0;
         void btn_Click(object sender, EventArgs e)
         {
-           
+            int tableID = ((sender as Button).Tag as Table).ID;
+            idhientai = tableID;
+            string tableName = ((sender as Button).Tag as Table).Name;
+            listBill.Tag = (sender as Button).Tag;
+            ban.Text = tableName;
+            ShowBill(tableID);
+
         }
         private void adminToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -145,7 +161,6 @@ namespace QuanLyNhaHang
         }
 
         #endregion
-
         private void rf_Click(object sender, EventArgs e)
         {
            

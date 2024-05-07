@@ -21,7 +21,7 @@ namespace QuanLyNhaHang.DAO
 
         private DataProvider() { }
 
-        private string chuoiketnoi = "Data Source = VINHLAPTOP; Initial Catalog = QuanLyNhaHang; Integrated Security = True";
+        private string chuoiketnoi = "Data Source = LAPTOP-MHOHQ41L\\SQLEXPRESS; Initial Catalog = QuanLyNhaHang; Integrated Security = True";
 
         // data source đỏi lại cho đúng tùy máy"
         // vinh: VINHLAPTOP

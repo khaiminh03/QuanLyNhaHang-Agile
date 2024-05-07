@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\",
+  "WorkspaceRootPath": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\lenovo\\desktop\\quanlynhahang7\\quanlynhahang7\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\chiacode\\quanlynhahang8\\quanlynhahang8\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\quanlynhahang\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\quanlynhahang\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\menudao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\billinfodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dto\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dto\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dto\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\tabledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\Bill.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DTO\\Bill.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\Bill.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DTO\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:13:03.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\BillDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\BillDAO.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\BillDAO.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DAO\\BillDAO.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:08:47.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Table.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\QuanLyNhaHang\\DTO\\Table.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\Table.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\DTO\\Table.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\QuanLyNhaHang\\DTO\\Table.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\Table.cs",
               "RelativeToolTip": "QuanLyNhaHang\\DTO\\Table.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T07:46:07.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "TableDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\QuanLyNhaHang\\DAO\\TableDAO.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\TableDAO.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\TableDAO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\QuanLyNhaHang\\DAO\\TableDAO.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\TableDAO.cs",
               "RelativeToolTip": "QuanLyNhaHang\\DAO\\TableDAO.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwA0AAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T07:44:23.631Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fTableManager.cs [Design]",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\fTableManager.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\fTableManager.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHang\\fTableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:41:09.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "fTableManager.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\QuanLyNhaHang\\fTableManager.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\fTableManager.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\QuanLyNhaHang\\fTableManager.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\fTableManager.cs",
               "RelativeToolTip": "QuanLyNhaHang\\fTableManager.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCYAAAAIAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAzwDQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T07:41:14.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "fTableManager.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang7\\QuanLyNhaHang7\\QuanLyNhaHang\\fTableManager.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
-              "ToolTip": "D:\\chiacode\\QuanLyNhaHang7\\QuanLyNhaHang\\fTableManager.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "MenuDAO.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\MenuDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\MenuDAO.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\MenuDAO.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DAO\\MenuDAO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T07:41:09.289Z"
+              "WhenOpened": "2024-05-02T08:24:48.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DTO\\BillInfo.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:15:28.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillInfoDAO.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\BillInfoDAO.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\BillInfoDAO.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DAO\\BillInfoDAO.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DAO\\BillInfoDAO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:16:38.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\Menu.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\DTO\\Menu.cs",
+              "ToolTip": "D:\\chiacode\\QuanLyNhaHang8\\QuanLyNhaHang8\\QuanLyNhaHang\\DTO\\Menu.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\DTO\\Menu.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:24:00.891Z"
             }
           ]
         }
