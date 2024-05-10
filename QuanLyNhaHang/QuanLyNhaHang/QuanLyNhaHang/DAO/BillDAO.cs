@@ -56,5 +56,10 @@ namespace QuanLyNhaHang.DAO
                 return 1;
             }
         }
+        public void CheckOut(int id, int discount, double totalPrice) // Kiem tra ban
+        {
+            string sql = "UPDATE dbo.HoaDon SET thoiGianRa = GETDATE(),  trangThai = 1, " + "giamGia = " + discount + ", tongTien = " + totalPrice + " WHERE id = " + id;
+            DataProvider.Instance.ExecuteNonSQL(sql);
+        }
     }
 }

@@ -188,7 +188,20 @@ namespace QuanLyNhaHang
 
         private void btnCheckOut_Click(object sender, EventArgs e)
         {
-            
+            Table table = listBill.Tag as Table;
+            int idBill = BillDAO.Instance.GetUncheckBillIDByTableID(table.ID);
+            int discount = (int)nmDisCount.Value;
+            double totalPrice = Convert.ToDouble(txbTotalPrice.Text);
+            double finalTotalPrice = (totalPrice - (totalPrice / 100) * discount);
+            if (idBill != -1)
+            {
+                if (MessageBox.Show(string.Format("Đồng ý thanh toán cho {0}\nTổng tiền sau giảm giá {1}% : {2}", table.Name, discount, finalTotalPrice), "Thông báo", MessageBoxButtons.OKCancel) == System.Windows.Forms.DialogResult.OK)
+                {
+                    BillDAO.Instance.CheckOut(idBill, discount, finalTotalPrice);
+                    ShowBill(table.ID);
+                }
+            }
+            LoadTable();
         }
         private void btnSwitchTable_Click(object sender, EventArgs e)
         { 
