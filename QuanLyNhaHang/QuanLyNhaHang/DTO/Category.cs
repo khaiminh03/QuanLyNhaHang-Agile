@@ -7,27 +7,17 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhaHang.DTO
 {
-    public class Table
+    public class Category
     {
-        public Table(int id, string name, string status)
+        public Category(int id, string name)
         {
             this.ID = id;
             this.Name = name;
-            this.Status = status;
         }
-
-        public Table(DataRow row)
+        public Category(DataRow row)
         {
             this.ID = (int)row["id"];
-            this.Name = row["tenBan"].ToString();
-            this.Status = row["trangThai"].ToString();
-        }
-
-        private string status;
-        public string Status
-        {
-            get { return status; }
-            set { status = value; }
+            this.Name = row["tenDanhMuc"].ToString();
         }
 
         private string name;
@@ -36,7 +26,6 @@ namespace QuanLyNhaHang.DTO
             get { return name; }
             set { name = value; }
         }
-
         private int iD;
         public int ID
         {
