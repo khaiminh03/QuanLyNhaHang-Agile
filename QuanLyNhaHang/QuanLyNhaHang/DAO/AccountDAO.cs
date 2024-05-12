@@ -27,7 +27,12 @@ namespace QuanLyNhaHang.DAO
             DataTable ketqua = DataProvider.Instance.ExecuteSQL(sql, new object[] { tenDangNhap, matKhau }); //nay nua
             return ketqua.Rows.Count > 0;
         }
+        public bool UpdateAccount(string userName, string displayName, string pass, string newPass)
+        {
+            int result = DataProvider.Instance.ExecuteNonSQL("exec USP_UpdateAccount @userName , @displayName , @password , @newPassword ", new object[] { userName, displayName, pass, newPass });
 
+            return result > 0;
+        }
         public DataTable GetListAccCount()
         {
             return DataProvider.Instance.ExecuteSQL("SELECT tenDangNhap, tenHienThi, loai FROM TAIKHOAN");

@@ -44,6 +44,7 @@ namespace QuanLyNhaHang
         void ChangeAccount(int type)
         {
             adminToolStripMenuItem.Enabled = type == 1;
+            thôngTinTàiKhoảnToolStripMenuItem.Text += " (" + LoginAccount.DisplayName + ")";
         }
         void LoadCategory()
         {
@@ -140,12 +141,13 @@ namespace QuanLyNhaHang
 
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void thôngTinCáNhânToolStripMenuItem_Click(object sender, EventArgs e)
         {
             AccountProfile f = new AccountProfile(LoginAccount);
+            f.UpdateAccount += f_UpdateAccount;
             f.ShowDialog();
         }
 
