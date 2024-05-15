@@ -24,6 +24,7 @@ namespace QuanLyNhaHang
         public fAdmin()
         {
             InitializeComponent();
+            load_2();
             
             //dgvAccount.DataSource = DataProvider.Instance.ExecuteSQL("SELECT * FROM dbo.TaiKhoan WHERE tenDangNhap = N'' OR 1=1--"); nay de hien thi danh sach tai khoan
         }
@@ -38,53 +39,36 @@ namespace QuanLyNhaHang
         }
         new void load_2()
         {
-            dgvCategory.DataSource = listDanhMuc;
-            dgvTable.DataSource = tableList;
-            dgvAccount.DataSource = accountList;
-            dgvFood.DataSource = foodList; // value of dgvFood -> footList 
-            LoadAccount();
-            LoadDanhMuc();
+            dgvFood.DataSource = foodList;
             LoadDateTimePicker();
             LoadListBillByDate(dtpkFromDate.Value, dtpkToDate.Value);
             LoadListFood();
-            LoadTable();
-            LoadCategoryIntoCombobox(cbFoodCategory);
             AddFoodBinding();
-            AddAccountBiding();
-            AddTableBiding();
-            AddDanhMucBinding();
-
+            LoadCategoryIntoCombobox(cbFoodCategory);
 
         }
         void AddDanhMucBinding()
         {
-            txbCategoryID.DataBindings.Add(new Binding("Text", dgvCategory.DataSource, "id", true, DataSourceUpdateMode.Never));
-            textBox2.DataBindings.Add(new Binding("Text", dgvCategory.DataSource, "tenDanhMuc", true, DataSourceUpdateMode.Never));
+            
         }
         void AddTableBiding()
         {
-            textBox1.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "id", true, DataSourceUpdateMode.Never));
-            textBox3.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "tenBAN", true, DataSourceUpdateMode.Never));
-            textBox4.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "trangThai", true, DataSourceUpdateMode.Never));
+           
         }
         void AddAccountBiding()
         {
-            txbUserName.DataBindings.Add(new Binding("Text", dgvAccount.DataSource, "tenDangNhap", true, DataSourceUpdateMode.Never));
-            txbDisPlayName.DataBindings.Add(new Binding("Text", dgvAccount.DataSource, "tenHienThi", true, DataSourceUpdateMode.Never));
-            nbupAccountType.DataBindings.Add(new Binding("Value", dgvAccount.DataSource, "loai", true, DataSourceUpdateMode.Never));
-
+            
         }
         void LoadDanhMuc()
         {
-            listDanhMuc.DataSource = CategoryDAO.Instance.GetListDanhMuc();
         }
         void LoadTable()
         {
-            tableList.DataSource = TableDAO.Instance.GetListTable();
+           
         }
         void LoadAccount()
         {
-            accountList.DataSource = AccountDAO.Instance.GetListAccCount();
+           
         }
         void LoadListFood()
         {
@@ -119,7 +103,7 @@ namespace QuanLyNhaHang
         #region event
         private void btnShowFood_Click(object sender, EventArgs e)
         {
-            
+            LoadListFood();
         }
         private void dgvAccount_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -128,7 +112,7 @@ namespace QuanLyNhaHang
 
         private void btnViewBill_Click(object sender, EventArgs e)
         {
-           
+            LoadListBillByDate(dtpkFromDate.Value, dtpkToDate.Value);
         }
         private void txbFoodID_TextChanged(object sender, EventArgs e)
         {
@@ -136,29 +120,88 @@ namespace QuanLyNhaHang
 
         private void btnAddFood_Click(object sender, EventArgs e)
         {
-           
+            String name = txbFoodName.Text;
+            int categoryID = (cbFoodCategory.SelectedItem as Category).ID;
+            float price = (float)nmFoodPrice.Value;
+
+            if (FoodDAO.Instance.InsertFood(name, categoryID, price) && (float)nmFoodPrice.Value > 0)
+            {
+                MessageBox.Show("Thêm món thành công!");
+                LoadListFood();
+                if (insertFood != null)
+                    insertFood(this, new EventArgs());
+            }
+            else
+            {
+                MessageBox.Show("Đã có lỗi. Thêm món ăn không thành công!");
+            }
+
         }
 
         private void btnEditFoof_Click(object sender, EventArgs e)
         {
-            
+            String name = txbFoodName.Text;
+            int categoryID = (cbFoodCategory.SelectedItem as Category).ID;
+            float price = (float)nmFoodPrice.Value;
+            int id = Convert.ToInt32(txbFoodID.Text);
+
+            if (FoodDAO.Instance.UpdateFood(name, categoryID, price, id) && (float)nmFoodPrice.Value > 0)
+            {
+                MessageBox.Show("Sữa món thành công!");
+                LoadListFood();
+                if (updateFood != null)
+                    updateFood(this, new EventArgs());
+            }
+            else
+            {
+                MessageBox.Show("Đã có lỗi. Sữa món ăn không thành công!");
+            }
         }
 
         private void btnDeleteFood_Click(object sender, EventArgs e)
         {
-           
+            int id = Convert.ToInt32(txbFoodID.Text);
+
+            if (FoodDAO.Instance.DeleteFood(id))
+            {
+                MessageBox.Show("Xóa món thành công!");
+                LoadListFood();
+                if (deleteFood != null)
+                    deleteFood(this, new EventArgs());
+            }
+            else
+            {
+                MessageBox.Show("Đã có lỗi. Xóa món ăn không thành công!");
+            }
+
+        }
+        private event EventHandler insertFood;
+        public event EventHandler InsertFood
+        {
+            add { insertFood += value; }
+            remove { insertFood -= value; }
+        }
+        private event EventHandler deleteFood;
+        public event EventHandler DeleteFood
+        {
+            add { deleteFood += value; }
+            remove { deleteFood -= value; }
+        }
+        private event EventHandler updateFood;
+        public event EventHandler UpdateFood
+        {
+            add { updateFood += value; }
+            remove { updateFood -= value; }
         }
 
-        
-             
-       
-       
-        
-        
+
+
+
+
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
-           
+            foodList.DataSource = SearchFoodByName(txbSearchFoodName.Text); ;
         }
 
         private void txbSearchFoodName_TextChanged(object sender, EventArgs e)
