@@ -49,6 +49,8 @@ namespace QuanLyNhaHang
             LoadCategoryIntoCombobox(cbFoodCategory);
             AddDanhMucBinding();
             LoadDanhMuc();
+            LoadTable1();
+            AddTableBiding1();
         }
         void AddDanhMucBinding()
         {
@@ -58,6 +60,12 @@ namespace QuanLyNhaHang
         void AddTableBiding()
         {
            
+        }
+        void AddTableBiding1()
+        {
+            textBox1.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "id", true, DataSourceUpdateMode.Never));
+            textBox3.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "tenBAN", true, DataSourceUpdateMode.Never));
+            textBox4.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "trangThai", true, DataSourceUpdateMode.Never));
         }
         void AddAccountBiding()
         {
@@ -70,6 +78,10 @@ namespace QuanLyNhaHang
         void LoadTable()
         {
            
+        }
+        void LoadTable1()
+        {
+            dgvTable.DataSource = TableDAO.Instance.GetListTable();
         }
         void LoadAccount()
         {
