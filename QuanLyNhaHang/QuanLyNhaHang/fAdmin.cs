@@ -39,21 +39,36 @@ namespace QuanLyNhaHang
         }
         new void load_2()
         {
+
+            dgvCategory.DataSource = listDanhMuc;
+            dgvAccount.DataSource = accountList;
             dgvFood.DataSource = foodList;
             LoadDateTimePicker();
             LoadListBillByDate(dtpkFromDate.Value, dtpkToDate.Value);
             LoadListFood();
             AddFoodBinding();
             LoadCategoryIntoCombobox(cbFoodCategory);
+            AddDanhMucBinding();
+            LoadDanhMuc();
+            LoadTable1();
+            AddTableBiding1();
+            LoadAccount();
 
         }
         void AddDanhMucBinding()
         {
-            
+            txbCategoryID.DataBindings.Add(new Binding("Text", dgvCategory.DataSource, "id", true, DataSourceUpdateMode.Never));
+            textBox2.DataBindings.Add(new Binding("Text", dgvCategory.DataSource, "tenDanhMuc", true, DataSourceUpdateMode.Never));
         }
         void AddTableBiding()
         {
            
+        }
+        void AddTableBiding1()
+        {
+            textBox1.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "id", true, DataSourceUpdateMode.Never));
+            textBox3.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "tenBAN", true, DataSourceUpdateMode.Never));
+            textBox4.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "trangThai", true, DataSourceUpdateMode.Never));
         }
         void AddAccountBiding()
         {
@@ -61,14 +76,19 @@ namespace QuanLyNhaHang
         }
         void LoadDanhMuc()
         {
+            listDanhMuc.DataSource = CategoryDAO.Instance.GetListDanhMuc();
         }
         void LoadTable()
         {
            
         }
+        void LoadTable1()
+        {
+            dgvTable.DataSource = TableDAO.Instance.GetListTable();
+        }
         void LoadAccount()
         {
-           
+            accountList.DataSource = AccountDAO.Instance.GetListAccCount();
         }
         void LoadListFood()
         {
@@ -201,7 +221,7 @@ namespace QuanLyNhaHang
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
-            foodList.DataSource = SearchFoodByName(txbSearchFoodName.Text); ;
+           
         }
 
         private void txbSearchFoodName_TextChanged(object sender, EventArgs e)
@@ -264,21 +284,86 @@ namespace QuanLyNhaHang
 
         private void btnAddCategory_Click(object sender, EventArgs e)
         {
-            
-            
+            string name = textBox2.Text;
+
+            if (CategoryDAO.Instance.InsertDanhMuc(name))
+            {
+                MessageBox.Show("Thêm danh mục thành công!");
+                LoadDanhMuc();
+                LoadListFood();
+                LoadCategoryIntoCombobox(cbFoodCategory);
+                if (insertDanhMuc != null)
+                    insertDanhMuc(this, new EventArgs());
+            }
+            else
+            {
+                MessageBox.Show("Đã có lỗi. Thêm danh mục không thành công!");
+            }
+
         }
 
         private void btnDeleteCategory_Click(object sender, EventArgs e)
         {
-          
+            int id = Convert.ToInt32(txbCategoryID.Text);
+            if (FoodDAO.Instance.DeleteFoodByDM(id))
+            {
+                if (deleteFood != null)
+                    deleteFood(this, new EventArgs());
+            }
+
+            // xoa danh muc
+            if (CategoryDAO.Instance.DeleteDanhMuc(id))
+            {
+                MessageBox.Show("Xóa danh mục thành công!");
+                LoadDanhMuc();
+                LoadListFood();
+                LoadCategoryIntoCombobox(cbFoodCategory);
+                if (deleteDanhMuc != null)
+                    deleteDanhMuc(this, new EventArgs());
+            }
+            else
+            {
+                MessageBox.Show("Đã có lỗi. Xóa danh mục không thành công!");
+            }
 
         }
 
         private void btnEditCategory_Click(object sender, EventArgs e)
         {
-           
+            int id = Convert.ToInt32(txbCategoryID.Text);
+            string name = textBox2.Text;
+            if (CategoryDAO.Instance.UpdateDanhMuc(id, name))
+            {
+                MessageBox.Show("Cập nhật danh mục thành công");
+                LoadDanhMuc();
+                LoadListFood();
+                LoadCategoryIntoCombobox(cbFoodCategory);
+                if (updateDM != null)
+                    updateDM(this, new EventArgs());
+            }
+            else
+            {
+                MessageBox.Show("Cập nhật danh không thành công");
+            }
         }
-
+        private event EventHandler insertDanhMuc;
+        public event EventHandler InsertDanhMuc
+        {
+            add { insertDanhMuc += value; }
+            remove { insertDanhMuc -= value; }
+        }
+        private event EventHandler deleteDanhMuc;
+        public event EventHandler DeleteDanhMuc
+        {
+            add { deleteDanhMuc += value; }
+            remove { deleteDanhMuc -= value; }
+        }
+        private event EventHandler updateDM;
+        public event EventHandler UpdateDM
+        {
+            add { updateDM += value; }
+            remove { updateDM -= value; }
+        }
         private void label4_Click(object sender, EventArgs e)
         {
 

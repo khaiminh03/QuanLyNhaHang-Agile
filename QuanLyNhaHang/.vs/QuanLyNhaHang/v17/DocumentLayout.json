@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\testgit\\quanlynhahang-agile\\quanlynhahang\\quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|d:\\testgit\\quanlynhahang-agile\\quanlynhahang\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\lenovo\\desktop\\git\\quanlynhahang-agile\\quanlynhahang19\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,46 +31,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataProvider.cs",
-              "DocumentMoniker": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "ToolTip": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\DAO\\DataProvider.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:34:22.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "fAdmin.cs",
-              "DocumentMoniker": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fAdmin.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\fAdmin.cs",
-              "ToolTip": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fAdmin.cs",
               "RelativeToolTip": "QuanLyNhaHang\\fAdmin.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwGYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T11:57:31.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "fAdmin.cs [Design]",
-              "DocumentMoniker": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fAdmin.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\fAdmin.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang - 15\\QuanLyNhaHang\\fAdmin.cs [Design]",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang - 16\\QuanLyNhaHang\\fAdmin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\QuanLyNhaHang - 16\\QuanLyNhaHang\\fAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T11:57:27.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BillDAO.cs",
-              "DocumentMoniker": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\BillDAO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\DAO\\BillDAO.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\BillDAO.cs",
-              "ToolTip": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\DAO\\BillDAO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\DAO\\BillDAO.cs",
               "RelativeToolTip": "QuanLyNhaHang\\DAO\\BillDAO.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "fTableManager.cs",
-              "DocumentMoniker": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fTableManager.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
-              "ToolTip": "D:\\testgit\\QuanLyNhaHang-Agile\\QuanLyNhaHang\\QuanLyNhaHang\\fTableManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fTableManager.cs",
               "RelativeToolTip": "QuanLyNhaHang\\fTableManager.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAiwCMAAAAHAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwDAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T12:49:23.907Z"
             }

@@ -122,13 +122,18 @@ namespace QuanLyNhaHang
         {
             fAdmin f = new fAdmin();
             f.loginAccount = LoginAccount;
-           
+            f.InsertFood += F_InsertFood;
+            f.UpdateFood += F_UpdateFood;
+            f.DeleteFood += F_DeleteFood;
             f.ShowDialog();
         }
 
         private void F_DeleteFood(object sender, EventArgs e)
         {
-           
+            LoadFoodListByCategoryID((cbCategory.SelectedItem as Category).ID);
+            if (listBill.Tag != null)
+                ShowBill((listBill.Tag as Table).ID);
+            LoadTable();
         }
 
         private void F_UpdateFood(object sender, EventArgs e)
