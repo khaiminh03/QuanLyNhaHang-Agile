@@ -131,7 +131,7 @@ namespace QuanLyNhaHang
         private void F_DeleteFood(object sender, EventArgs e)
         {
             LoadFoodListByCategoryID((cbCategory.SelectedItem as Category).ID);
-            if (listBill.Tag != null)
+            if(listBill.Tag != null)
                 ShowBill((listBill.Tag as Table).ID);
             LoadTable();
         }
@@ -180,10 +180,10 @@ namespace QuanLyNhaHang
         {
             Table table = listBill.Tag as Table;
 
-            if (table == null)
+            if(table == null)
             {
                 MessageBox.Show("Chưa chọn bàn!");
-                return;
+                return; 
             }
 
             int idBill = BillDAO.Instance.GetUncheckBillIDByTableID(table.ID);
@@ -209,17 +209,16 @@ namespace QuanLyNhaHang
             int idBill = BillDAO.Instance.GetUncheckBillIDByTableID(table.ID);
             int discount = (int)nmDisCount.Value;
             double totalPrice = Convert.ToDouble(txbTotalPrice.Text);
-            double finalTotalPrice = (totalPrice - (totalPrice / 100) * discount);
+            double finalTotalPrice = (totalPrice - (totalPrice/100)*discount);
             if (idBill != -1)
             {
-                if (MessageBox.Show(string.Format("Đồng ý thanh toán cho {0}\nTổng tiền sau giảm giá {1}% : {2}", table.Name, discount, finalTotalPrice), "Thông báo", MessageBoxButtons.OKCancel) == System.Windows.Forms.DialogResult.OK)
+                if (MessageBox.Show(string.Format("Đồng ý thanh toán cho {0}\nTổng tiền sau giảm giá {1}% : {2}",table.Name, discount, finalTotalPrice), "Thông báo", MessageBoxButtons.OKCancel) == System.Windows.Forms.DialogResult.OK)
                 {
                     BillDAO.Instance.CheckOut(idBill, discount, finalTotalPrice);
                     ShowBill(table.ID);
                 }
             }
             LoadTable();
-
         }
         private void btnSwitchTable_Click(object sender, EventArgs e)
         { 
@@ -250,10 +249,10 @@ namespace QuanLyNhaHang
 
         private void In_Click(object sender, EventArgs e)
         {
-            
+            hoadon form2 = new hoadon(idhientai);
 
             // Hiển thị form mới
-           
+            form2.Show();
         }
 
         private void fTableManager_Load(object sender, EventArgs e)

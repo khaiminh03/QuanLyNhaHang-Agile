@@ -12,7 +12,7 @@ namespace QuanLyNhaHang.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.7.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.9.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -31,6 +31,17 @@ namespace QuanLyNhaHang.Properties {
         public string QuanLyNhaHangConnectionString {
             get {
                 return ((string)(this["QuanLyNhaHangConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=VINHLAPTOP;Initial Catalog=QuanLyNhaHang;Integrated Security=True;Tru" +
+            "stServerCertificate=True")]
+        public string QuanLyNhaHangConnectionString1 {
+            get {
+                return ((string)(this["QuanLyNhaHangConnectionString1"]));
             }
         }
     }

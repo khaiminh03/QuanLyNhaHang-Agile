@@ -25,7 +25,6 @@ namespace QuanLyNhaHang
         {
             InitializeComponent();
             load_2();
-            
             //dgvAccount.DataSource = DataProvider.Instance.ExecuteSQL("SELECT * FROM dbo.TaiKhoan WHERE tenDangNhap = N'' OR 1=1--"); nay de hien thi danh sach tai khoan
         }
         #region methods
@@ -39,20 +38,22 @@ namespace QuanLyNhaHang
         }
         new void load_2()
         {
-
             dgvCategory.DataSource = listDanhMuc;
+            dgvTable.DataSource = tableList;
             dgvAccount.DataSource = accountList;
-            dgvFood.DataSource = foodList;
+            dgvFood.DataSource = foodList; // value of dgvFood -> footList 
+            LoadAccount();
+            LoadDanhMuc();
             LoadDateTimePicker();
             LoadListBillByDate(dtpkFromDate.Value, dtpkToDate.Value);
             LoadListFood();
-            AddFoodBinding();
+            LoadTable();
             LoadCategoryIntoCombobox(cbFoodCategory);
+            AddFoodBinding();
+            AddAccountBiding();
+            AddTableBiding();
             AddDanhMucBinding();
-            LoadDanhMuc();
-            LoadTable1();
-            AddTableBiding1();
-            LoadAccount();
+
 
         }
         void AddDanhMucBinding()
@@ -62,17 +63,16 @@ namespace QuanLyNhaHang
         }
         void AddTableBiding()
         {
-           
-        }
-        void AddTableBiding1()
-        {
             textBox1.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "id", true, DataSourceUpdateMode.Never));
             textBox3.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "tenBAN", true, DataSourceUpdateMode.Never));
             textBox4.DataBindings.Add(new Binding("Text", dgvTable.DataSource, "trangThai", true, DataSourceUpdateMode.Never));
         }
         void AddAccountBiding()
         {
-            
+            txbUserName.DataBindings.Add(new Binding("Text", dgvAccount.DataSource, "tenDangNhap", true, DataSourceUpdateMode.Never));
+            txbDisPlayName.DataBindings.Add(new Binding("Text", dgvAccount.DataSource, "tenHienThi", true, DataSourceUpdateMode.Never));
+            nbupAccountType.DataBindings.Add(new Binding("Value", dgvAccount.DataSource, "loai", true, DataSourceUpdateMode.Never));
+
         }
         void LoadDanhMuc()
         {
@@ -80,11 +80,7 @@ namespace QuanLyNhaHang
         }
         void LoadTable()
         {
-           
-        }
-        void LoadTable1()
-        {
-            dgvTable.DataSource = TableDAO.Instance.GetListTable();
+            tableList.DataSource = TableDAO.Instance.GetListTable();
         }
         void LoadAccount()
         {
@@ -144,7 +140,7 @@ namespace QuanLyNhaHang
             int categoryID = (cbFoodCategory.SelectedItem as Category).ID;
             float price = (float)nmFoodPrice.Value;
 
-            if (FoodDAO.Instance.InsertFood(name, categoryID, price) && (float)nmFoodPrice.Value > 0)
+            if (FoodDAO.Instance.InsertFood(name, categoryID, price) && (float)nmFoodPrice.Value>0)
             {
                 MessageBox.Show("Thêm món thành công!");
                 LoadListFood();
@@ -155,7 +151,6 @@ namespace QuanLyNhaHang
             {
                 MessageBox.Show("Đã có lỗi. Thêm món ăn không thành công!");
             }
-
         }
 
         private void btnEditFoof_Click(object sender, EventArgs e)
@@ -186,26 +181,39 @@ namespace QuanLyNhaHang
             {
                 MessageBox.Show("Xóa món thành công!");
                 LoadListFood();
-                if (deleteFood != null)
+                if(deleteFood != null)
                     deleteFood(this, new EventArgs());
             }
             else
             {
                 MessageBox.Show("Đã có lỗi. Xóa món ăn không thành công!");
             }
-
         }
+
+        private event EventHandler insertDanhMuc;
+        public event EventHandler InsertDanhMuc
+        {
+            add { insertDanhMuc += value; }
+            remove { insertDanhMuc -= value; }
+        }
+        private event EventHandler deleteDanhMuc;
+        public event EventHandler DeleteDanhMuc
+        {
+            add { deleteDanhMuc += value; }
+            remove { deleteDanhMuc -= value; }
+        }
+        private event EventHandler updateDM;
+        public event EventHandler UpdateDM
+        {
+            add { updateDM += value; }
+            remove { updateDM -= value; }
+        }
+
         private event EventHandler insertFood;
         public event EventHandler InsertFood
         {
             add { insertFood += value; }
             remove { insertFood -= value; }
-        }
-        private event EventHandler deleteFood;
-        public event EventHandler DeleteFood
-        {
-            add { deleteFood += value; }
-            remove { deleteFood -= value; }
         }
         private event EventHandler updateFood;
         public event EventHandler UpdateFood
@@ -213,15 +221,16 @@ namespace QuanLyNhaHang
             add { updateFood += value; }
             remove { updateFood -= value; }
         }
-
-
-
-
-
+        private event EventHandler deleteFood;
+        public event EventHandler DeleteFood
+        {
+            add { deleteFood += value; }
+            remove { deleteFood -= value; }
+        }
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
-           
+            foodList.DataSource = SearchFoodByName(txbSearchFoodName.Text); ;
         }
 
         private void txbSearchFoodName_TextChanged(object sender, EventArgs e)
@@ -231,55 +240,103 @@ namespace QuanLyNhaHang
 
         private void btnShowAccount_Click(object sender, EventArgs e)
         {
-            
+            LoadAccount();
         }
         void AddAcount(string userName,string displayName, int type)
         {
+            if(AccountDAO.Instance.InsertAccount(userName, displayName, type))
+            {
+                MessageBox.Show("Thêm tài khoản thành công");
+            }
+            else
+            {
+                MessageBox.Show("Thêm tài khoản thất bại");
+            } 
+            LoadAccount();
             
         }
         void EditAcount(string userName, string displayName, int type)
         {
-           
+            if (AccountDAO.Instance.UpdateAccount(userName, displayName, type))
+            {
+                MessageBox.Show("Cập nhật tài khoản thành công");
+            }
+            else
+            {
+                MessageBox.Show("Cập nhật tài khoản thất bại");
+            }
+            LoadAccount();
 
         }
         void DeleteAcount(string userName)
         {
-            
+            if (loginAccount.UserName.Equals(userName))
+            {
+                MessageBox.Show("Không thể xóa chính bạn");
+                return;
+            }
+            if (AccountDAO.Instance.DeleteAccount(userName))
+            {
+                MessageBox.Show("Xóa tài khoản thành công");
+            }
+            else
+            {
+                MessageBox.Show("Xóa tài khoản thất bại");
+            }
+            LoadAccount();
 
         }
         void ResetPass(string userName)
         {
-          
+            if (AccountDAO.Instance.ResetPassWord(userName))
+            {
+                MessageBox.Show("Đổi mật khẩu  thành công");
+            }
+            else
+            {
+                MessageBox.Show("Đổi mật khẩu  thất bại");
+            }
             
         }
         private void btnAddAccount_Click(object sender, EventArgs e)
         {
-           
+            string userName =txbUserName.Text;
+            string displayName = txbDisPlayName.Text;
+            int type = (int)nbupAccountType.Value;
+
+            AddAcount(userName, displayName, type);
         }
 
         private void btnDeleteAccount_Click(object sender, EventArgs e)
         {
-            
+            string userName = txbUserName.Text;
+            DeleteAcount(userName);
         }
 
         private void btnEditAccount_Click(object sender, EventArgs e)
         {
-           
+            string userName = txbUserName.Text;
+            string displayName = txbDisPlayName.Text;
+            int type = (int)nbupAccountType.Value;
+
+            EditAcount(userName, displayName, type);
+
         }
 
         private void btnResetPassWord_Click(object sender, EventArgs e)
         {
-           
+            string userName = txbUserName.Text;
+            ResetPass(userName);
         }
 
         private void btnShowTable_Click(object sender, EventArgs e)
         {
-           
+            LoadTable();
         }
 
         private void btnShowCategory_Click(object sender, EventArgs e)
         {
-            
+            LoadDanhMuc();
         }
 
         private void btnAddCategory_Click(object sender, EventArgs e)
@@ -292,18 +349,19 @@ namespace QuanLyNhaHang
                 LoadDanhMuc();
                 LoadListFood();
                 LoadCategoryIntoCombobox(cbFoodCategory);
-                if (insertDanhMuc != null)
+                if (insertDanhMuc!= null)
                     insertDanhMuc(this, new EventArgs());
             }
             else
             {
                 MessageBox.Show("Đã có lỗi. Thêm danh mục không thành công!");
             }
-
+            
         }
 
         private void btnDeleteCategory_Click(object sender, EventArgs e)
         {
+            // xoa mon
             int id = Convert.ToInt32(txbCategoryID.Text);
             if (FoodDAO.Instance.DeleteFoodByDM(id))
             {
@@ -332,7 +390,7 @@ namespace QuanLyNhaHang
         {
             int id = Convert.ToInt32(txbCategoryID.Text);
             string name = textBox2.Text;
-            if (CategoryDAO.Instance.UpdateDanhMuc(id, name))
+            if (CategoryDAO.Instance.UpdateDanhMuc(id,name))
             {
                 MessageBox.Show("Cập nhật danh mục thành công");
                 LoadDanhMuc();
@@ -346,24 +404,7 @@ namespace QuanLyNhaHang
                 MessageBox.Show("Cập nhật danh không thành công");
             }
         }
-        private event EventHandler insertDanhMuc;
-        public event EventHandler InsertDanhMuc
-        {
-            add { insertDanhMuc += value; }
-            remove { insertDanhMuc -= value; }
-        }
-        private event EventHandler deleteDanhMuc;
-        public event EventHandler DeleteDanhMuc
-        {
-            add { deleteDanhMuc += value; }
-            remove { deleteDanhMuc -= value; }
-        }
-        private event EventHandler updateDM;
-        public event EventHandler UpdateDM
-        {
-            add { updateDM += value; }
-            remove { updateDM -= value; }
-        }
+
         private void label4_Click(object sender, EventArgs e)
         {
 
@@ -371,20 +412,22 @@ namespace QuanLyNhaHang
 
         void LoadDateTimePicker2()
         {
-           
+            DateTime today = DateTime.Now;
+            dateTimePicker1.Value = new DateTime(today.Year, today.Month, 1);
+            dateTimePicker2.Value = dateTimePicker1.Value.AddMonths(1).AddDays(-1);
         }
 
-
-      
-        
         private void fAdmin_Load(object sender, EventArgs e)
         {
-          
+            LoadDateTimePicker2();
+            uSP_rpBillTableAdapter.Fill(this.quanLyNhaHangDataSet1.USP_rpBill, dateTimePicker1.Value, dateTimePicker2.Value);
+            this.reportViewer1.RefreshReport();
         }
 
-        // report 
         private void button1_Click(object sender, EventArgs e)
         {
+            uSP_rpBillTableAdapter.Fill(this.quanLyNhaHangDataSet1.USP_rpBill, dateTimePicker1.Value, dateTimePicker2.Value);
+            this.reportViewer1.RefreshReport();
         }
 
         private void cbFoodCategory_SelectedIndexChanged(object sender, EventArgs e)
@@ -396,18 +439,9 @@ namespace QuanLyNhaHang
         {
 
         }
-
-        private void dgvBill_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-             
-        }
-
-
         #endregion
 
-        private void dgvFood_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
+        // khi txbFoodID thay doi -> (thuat toan) -> cbFoodCategory thay doi
 
-        }
     }
 }

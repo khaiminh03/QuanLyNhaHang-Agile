@@ -12,14 +12,14 @@ namespace QuanLyNhaHang.DAO
     {
         public static BillDAO instance;
 
-        public static BillDAO Instance
-        {
-            get
+        public static BillDAO Instance 
+        { 
+            get 
             {
-                if (instance == null)
+                if(instance == null) 
                     instance = new BillDAO();
                 return instance;
-            }
+            } 
             private set
             {
                 BillDAO.instance = value;
@@ -35,7 +35,7 @@ namespace QuanLyNhaHang.DAO
         public int GetUncheckBillIDByTableID(int id)
         {
             DataTable data = DataProvider.Instance.ExecuteSQL("SELECT * FROM dbo.HoaDon where idBan = " + id + " and trangThai = 0");
-            if (data.Rows.Count > 0)
+            if (data.Rows.Count > 0 ) 
             {
                 Bill bill = new Bill(data.Rows[0]);
                 return bill.ID;
@@ -43,19 +43,19 @@ namespace QuanLyNhaHang.DAO
             return -1;
         }
         public void CheckOut(int id, int discount, double totalPrice) // Kiem tra ban
-        {
-            string sql = "UPDATE dbo.HoaDon SET thoiGianRa = GETDATE(),  trangThai = 1, " + "giamGia = " + discount + ", tongTien = " + totalPrice + " WHERE id = " + id;
+        { 
+            string sql = "UPDATE dbo.HoaDon SET thoiGianRa = GETDATE(),  trangThai = 1, "+"giamGia = "+  discount +", tongTien = "+ totalPrice + " WHERE id = " + id;
             DataProvider.Instance.ExecuteNonSQL(sql);
         }
-        public void InsertBill(int id)
+        public void InsertBill (int id)
         {
-            DataProvider.Instance.ExecuteSQL("exec USP_InsertBill @idBan", new object[] { id });
+            DataProvider.Instance.ExecuteSQL("exec USP_InsertBill @idBan", new object[] {id});
         }
 
         public DataTable GetBillListByDate(DateTime checkIn, DateTime checkOut)
         {
-            return DataProvider.Instance.ExecuteSQL("exec USP_GetListBillDate @checkIn , @checkOut", new object[] { checkIn, checkOut });
-
+            return DataProvider.Instance.ExecuteSQL("exec USP_GetListBillDate @checkIn , @checkOut", new object[] {checkIn, checkOut});
+            
         }
 
         public int GetMaxIDBill()
@@ -66,7 +66,7 @@ namespace QuanLyNhaHang.DAO
             }
             catch
             {
-                return 1;
+                return 1; 
             }
         }
     }

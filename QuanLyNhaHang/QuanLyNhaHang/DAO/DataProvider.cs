@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,8 +20,7 @@ namespace QuanLyNhaHang.DAO
 
         private DataProvider() { }
 
-        private string chuoiketnoi = "Data Source = YOUNGTEE; Initial Catalog = QuanLyNhaHang; Integrated Security = True";
-       
+        private string chuoiketnoi = "Data Source = VINHLAPTOP; Initial Catalog = QuanLyNhaHang; Integrated Security = True";
         // data source đỏi lại cho đúng tùy máy"
         // vinh: LAPTOP-HRCJET3B
         // minh: YOUNGTEE

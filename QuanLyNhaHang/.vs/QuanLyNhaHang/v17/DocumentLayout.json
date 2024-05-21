@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\",
+  "WorkspaceRootPath": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\lenovo\\desktop\\git\\quanlynhahang-agile\\quanlynhahang19\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\pvinh\\downloads\\nhom11\\nhom11\\quanlynhahang\\quanlynhahang\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\ftablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\pvinh\\downloads\\nhom11\\nhom11\\quanlynhahang\\quanlynhahang\\quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\fadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\pvinh\\downloads\\nhom11\\nhom11\\quanlynhahang\\quanlynhahang\\quanlynhahang\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\pvinh\\downloads\\nhom11\\nhom11\\quanlynhahang\\quanlynhahang\\quanlynhahang\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|c:\\users\\pvinh\\downloads\\nhom11\\nhom11\\quanlynhahang\\quanlynhahang\\quanlynhahang\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED5FB770-0D4D-48E5-8972-D8FE71F9CF0C}|QuanLyNhaHang\\QuanLyNhaHang.csproj|solutionrelative:quanlynhahang\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "fAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fAdmin.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\fAdmin.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fAdmin.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\fAdmin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:57:31.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "fAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\fAdmin.cs",
               "RelativeDocumentMoniker": "QuanLyNhaHang\\fAdmin.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\QuanLyNhaHang - 16\\QuanLyNhaHang\\fAdmin.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\QuanLyNhaHang - 16\\QuanLyNhaHang\\fAdmin.cs [Design]",
+              "ToolTip": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\fAdmin.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHang\\fAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T11:57:27.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BillDAO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\DAO\\BillDAO.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\DAO\\BillDAO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\DAO\\BillDAO.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\DAO\\BillDAO.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAwEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T13:04:45.23Z"
+              "WhenOpened": "2024-05-21T06:16:59.958Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "fTableManager.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fTableManager.cs",
-              "RelativeDocumentMoniker": "QuanLyNhaHang\\fTableManager.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Git\\QuanLyNhaHang-Agile\\QuanLyNhaHang19\\QuanLyNhaHang\\fTableManager.cs",
-              "RelativeToolTip": "QuanLyNhaHang\\fTableManager.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAwwDAAAAAZAAAA",
+              "Title": "Report3.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\Report3.rdlc",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\Report3.rdlc",
+              "ToolTip": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\Report3.rdlc [Design]",
+              "RelativeToolTip": "QuanLyNhaHang\\Report3.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-21T06:15:29.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\fAdmin.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\fAdmin.cs",
+              "ToolTip": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\fAdmin.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\fAdmin.cs",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAqwKYBAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:49:23.907Z"
+              "WhenOpened": "2024-05-21T06:13:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hoadon.cs",
+              "DocumentMoniker": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\hoadon.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\hoadon.cs",
+              "ToolTip": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\hoadon.cs",
+              "RelativeToolTip": "QuanLyNhaHang\\hoadon.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:10:29.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hoadon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\hoadon.cs",
+              "RelativeDocumentMoniker": "QuanLyNhaHang\\hoadon.cs",
+              "ToolTip": "C:\\Users\\pvinh\\Downloads\\nhom11\\nhom11\\QuanLyNhaHang\\QuanLyNhaHang\\QuanLyNhaHang\\hoadon.cs [Design]",
+              "RelativeToolTip": "QuanLyNhaHang\\hoadon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:04:58.378Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
